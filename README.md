@@ -19,7 +19,7 @@ NOTE: Draw the Part A,B and C all together in a single window as a whole scenary
 • Place the circle slightly left of center like the real Bangladesh flag.  
 • Add a flagpole using DDA line. 
  
-**Part B: Shaheed Minar (Mandatory) **
+**Part B: Shaheed Minar (Mandatory)**
 Construct a simplified Shaheed Minar using rectangles, lines, and circles. 
 Minimum required structure: 
 • Base platform: one wide rectangle 
@@ -40,12 +40,12 @@ Pick two from the list and draw them using the algorithms:
 5. Clouds (overlapping circles) → Midpoint Circle 
 6. Birds (two small arcs made from circle points) → Midpoint Circle
 
-Strict Algorithm Rules: 
+**Strict Algorithm Rules:**
 • Every straight edge must be drawn by either DDA or Bresenham (not both randomly—label it). 
 • Every circle/arc must use Midpoint Circle. 
 • Must implement all three algorithms at least once. 
 
-Report Must include: 
+**Report Must include:**
 1. Source Code 
 2. Screenshot of output 
 3. A short report of one page including: 
